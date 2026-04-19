@@ -234,7 +234,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LockedRoom
   scoreManager: {fileID: 0}
-  targetScore: 5
 --- !u!1001 &110855244
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3819,7 +3818,7 @@ Transform:
   m_GameObject: {fileID: 1930364267}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.5, y: 6.87, z: 14.43}
+  m_LocalPosition: {x: 10.05, y: -0.379, z: 24.59}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
