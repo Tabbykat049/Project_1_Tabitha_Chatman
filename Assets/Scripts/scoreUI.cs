@@ -4,7 +4,9 @@ using TMPro;
 public class scoreUI : MonoBehaviour
 {
  
- private int Score = 0;
+ public static int Score = 0;
+
+ 
 
 [SerializeField]
 private TextMeshProUGUI text;
