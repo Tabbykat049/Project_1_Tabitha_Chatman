@@ -6,6 +6,7 @@ TagManager:
   tags:
   - CinemachineTarget
   - PlayerLevelTrigger
+  - PickUp
   layers:
   - Default
   - TransparentFX

@@ -4,7 +4,7 @@ using TMPro;
 public class scoreUI : MonoBehaviour
 {
  
- public static int Score = 0;
+ public int Score = 0;
 
  
 
